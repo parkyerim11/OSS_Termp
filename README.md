@@ -3,7 +3,7 @@ Our project is **to blur the face after recognizing the face** in the image.
 And we used open source with facial recognition.
 
 
-##There are three characteristics in detail
+## There are three characteristics in detail
 
 1. Convert photos to black and white
 2. Recognizing the number of people in the picture
@@ -11,7 +11,7 @@ And we used open source with facial recognition.
 
 ---
 
-#### requirement
+### Requirement
 
 Jupyter Notebook 
 opencv-python(3.4.5.20)
@@ -24,5 +24,10 @@ opencv-python(3.4.5.20)
 [Download](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 
 - install : matplotlib
+
+## Our Result 
+![Original Image]("C:\Users\user\Desktop\OSS\Fam.jpg")
+
+- [source code](https://github.com/serengil/tensorflow-101/blob/master/python/Blurring.ipynb)
 
 
