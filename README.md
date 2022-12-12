@@ -26,7 +26,7 @@ opencv-python(3.4.5.20)
 - install : matplotlib
 
 ## Our Result 
-![Original Image]("https://postfiles.pstatic.net/MjAyMjEyMTJfMjQ2/MDAxNjcwODEzODMxMDE0.RIf1PoJPvijduUtPtJckjZZp1dSnJgIbWzPVP7JGdNgg.sQx-io2AiSuk0aZHpe-se5mKPjY6gPWk6XWlh3yR2vUg.JPEG.yerim110791/Fam.jpg?type=w966")
+![Original Image]("https://blog.naver.com/yerim110791/222953189067")
 
 - [source code](https://github.com/serengil/tensorflow-101/blob/master/python/Blurring.ipynb)
 
