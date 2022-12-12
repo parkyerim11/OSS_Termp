@@ -27,6 +27,9 @@ opencv-python(3.4.5.20)
 
 ## Our Result 
 ![Original Image]("https://blog.naver.com/yerim110791/222953189067")
+===============face recog and blur================
+![Change Image]("")
+
 
 - [source code](https://github.com/serengil/tensorflow-101/blob/master/python/Blurring.ipynb)
 
