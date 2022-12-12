@@ -1,5 +1,5 @@
 # OSS_TERM
-Our project is **to blur the face after recognizing the face** in the image.
+Our project is **to blur the face after recognizing the face** in the image.  
 And we used open source with facial recognition.
 
 
@@ -26,8 +26,8 @@ opencv-python(3.4.5.20)
 - install : matplotlib
 
 ## Our Result 
-![Original Image]("https://blog.naver.com/yerim110791/222953189067")
-===============face recog and blur================
+![Original Image]("https://blog.naver.com/yerim110791/222953189067")  
+===============face recog and blur================  
 ![Change Image]("")
 
 
