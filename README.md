@@ -26,7 +26,7 @@ opencv-python(3.4.5.20)
 - install : matplotlib
 
 ## Our Result 
-![Original Image]("C:\Users\user\Desktop\OSS\Fam.jpg")
+![Original Image]("C:\\Users\\user\\Desktop\\OSS\\Fam.jpg")
 
 - [source code](https://github.com/serengil/tensorflow-101/blob/master/python/Blurring.ipynb)
 
