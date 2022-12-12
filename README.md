@@ -26,7 +26,7 @@ opencv-python(3.4.5.20)
 - install : matplotlib
 
 ## Our Result 
-![Original Image]("https://raw.githubusercontent.com/parkyerim11/OSS_Termp/main/family.jpg")  
+![Original Image]("./family.jpg")  
 ===============face recog and blur================  
 ![Change Image]("")
 
