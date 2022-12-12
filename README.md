@@ -26,7 +26,7 @@ opencv-python(3.4.5.20)
 - install : matplotlib
 
 ## Our Result 
-![Original Image]("https://blog.naver.com/yerim110791/222953189067")  
+![Original Image]("https://naver.me/x1g0oTnW")  
 ===============face recog and blur================  
 ![Change Image]("")
 
