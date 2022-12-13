@@ -6,8 +6,9 @@ And we used open source with facial recognition.
 ## There are three characteristics in detail
 
 1. Convert photos to black and white
-2. Recognizing the number of people in the picture
-3. Blur the face into a circle after recognizing it
+2. face recog and circle the face
+3. Recognizing the number of people in the picture
+4. Blur the face into a rectangular after recognizing it
 
 ---
 
