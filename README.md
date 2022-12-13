@@ -29,7 +29,7 @@ opencv-python(3.4.5.20)
 ## Our Result 
 ![Original Image](./family.jpg)  
 ===============face recog and blur================  
-![Change Image]("")
+![Change Image](./blur_family.png)
 
 
 - [source code](https://github.com/serengil/tensorflow-101/blob/master/python/Blurring.ipynb)
