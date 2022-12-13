@@ -1,14 +1,14 @@
-# OSS_TERM
+# OSS_TERM (FINAL CODE1,2 참고)
 Our project is **to blur the face after recognizing the face** in the image.  
 And we used open source with facial recognition.
 
 
 ## There are three characteristics in detail
 
-1. Convert photos to black and white
-2. face recog and circle the face
-3. Recognizing the number of people in the picture
-4. Blur the face into a rectangular after recognizing it
+1. Convert photos to black and white (FInal code1)
+2. face recog and circle the face (FInal code1)
+3. Recognizing the number of people in the picture (FInal code2)
+4. Blur the face into a rectangular after recognizing it (FInal code2)
 
 ---
 
